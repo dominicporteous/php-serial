@@ -1,6 +1,6 @@
 <?php
 
-class phpserial {
+class Serial {
 
 	/**
 	 * Constants for alphabetical chars (CAPS), alphabetical chars (LOWER) and numeric chars
