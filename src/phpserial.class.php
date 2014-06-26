@@ -60,7 +60,7 @@ class Serial {
 	 *
 	 * @return mixed $serial (e.g. B3IZN-PGRXEQSTS)
 	 */
-	public static function custumFormat($format='B*I*N-P*R*E*S*S', $chars='')
+	public static function customFormat($format='B*I*N-P*R*E*S*S', $chars='')
 	{
 		$serial = '';
 		$aFormat = str_split($format,1);
